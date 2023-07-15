@@ -14,6 +14,7 @@
 		DFB384672A5DD2BB00EFAEB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB384662A5DD2BB00EFAEB0 /* Preview Assets.xcassets */; };
 		DFB384712A5DD65300EFAEB0 /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = DFB3846F2A5DD65300EFAEB0 /* locations.json */; };
 		DFB384722A5DD65300EFAEB0 /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = DFB384702A5DD65300EFAEB0 /* tips.json */; };
+		DFB8378E2A6276E70017BA53 /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB8378D2A6276E70017BA53 /* WorldView.swift */; };
 		DFC906ED2A5E74D300A64732 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC906EC2A5E74D300A64732 /* Location.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		DFB384682A5DD2BB00EFAEB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DFB3846F2A5DD65300EFAEB0 /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 		DFB384702A5DD65300EFAEB0 /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
+		DFB8378D2A6276E70017BA53 /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
 		DFC906EC2A5E74D300A64732 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				DFB3845F2A5DD2B700EFAEB0 /* TrekrApp.swift */,
+				DFB8378D2A6276E70017BA53 /* WorldView.swift */,
 				DFB384612A5DD2B700EFAEB0 /* ContentView.swift */,
 				DFC906EC2A5E74D300A64732 /* Location.swift */,
 				DF5210602A61DBB1002AE4DB /* Locations.swift */,
@@ -154,6 +157,7 @@
 			files = (
 				DFB384622A5DD2B700EFAEB0 /* ContentView.swift in Sources */,
 				DFC906ED2A5E74D300A64732 /* Location.swift in Sources */,
+				DFB8378E2A6276E70017BA53 /* WorldView.swift in Sources */,
 				DF5210612A61DBB1002AE4DB /* Locations.swift in Sources */,
 				DFB384602A5DD2B700EFAEB0 /* TrekrApp.swift in Sources */,
 			);

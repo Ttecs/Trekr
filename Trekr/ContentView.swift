@@ -42,8 +42,15 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
+        TabView{
         NavigationView{
-            ContentView(location:Location.example)
+            ContentView(location:Locations().primary)
+        }
+        
+        }
+        .tabItem{
+            Image(systemName:"airplane.circle.fill")
+            Text("Discover")
         }
         
     }
