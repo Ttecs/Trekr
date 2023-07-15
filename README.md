@@ -1,6 +1,6 @@
 # Trekr
 
-![Trekr Logo](https://example.com/trekr_logo.png)
+![Trekr Logo]([https://example.com/trekr_logo.png](https://im5.ezgif.com/tmp/ezgif-5-6fec38ac24.gif))
 
 Trekr is a fantastic iOS app that allows you to explore the world at your fingertips. With Trekr, you can view an interactive map of countries and easily access detailed information about each country just by clicking on it.
 
