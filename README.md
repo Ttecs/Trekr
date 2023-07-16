@@ -14,19 +14,5 @@ Trekr is a fantastic iOS app that allows you to explore the world at your finger
 
 - **Offline Access:** Access country information even without an internet connection. Once you've loaded the data, it's available to you offline.
 
-- **Beautiful Images:** Enjoy stunning images of landscapes, landmarks, and cultures from around the globe.
 
-- **Share and Save:** Share interesting countries or save them for later reference.
-
-## Screenshots
-
-![Screenshot 1](https://example.com/screenshot_1.png)
-![Screenshot 2](https://example.com/screenshot_2.png)
-![Screenshot 3](https://example.com/screenshot_3.png)
-
-## Installation
-
-To install Trekr on your iOS device, follow these steps:
-
-1. Clone the repository:
 
